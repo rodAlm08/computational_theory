@@ -24,7 +24,8 @@ This project serves as a practical application of computational theory highlight
 Ensures that temporary files and folders not essential for version control are ignored.
 
 ### countdown.ipynb:
-The Jupyter Notebook contains all the explanations and code implementations. It can be accessed on the badge below:
+The Jupyter Notebook contains all the explanations and code implementations. It can be accessed here:
+
 <a target="_blank" href="https://colab.research.google.com/github/rodAlm08/computational_theory/blob/main/countdown.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
